@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  margin: 4px 4px;
+}
+
+.invalid {
+  color: red;
+}
+
+.logout {
+  position: absolute;
+  top: 4px;
+  right: 10px;
+}
